@@ -1,2 +1,2 @@
 # ML-Hyperparameter-Selection-Comparison
-A short research paper comparing several common hyperparameter selection algorithms, along with the code generated to compare the algorithms. 
+This code relates to a short research paper that I completed with two classmates comparing several hyperparameter selection algorithms, along with the code generated to compare the algorithms. I am in the process of refactoring and commenting the code and adding in the final write up used for this project. This project was part of a university machine learning course for which I received full marks. 
